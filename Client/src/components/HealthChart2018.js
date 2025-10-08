@@ -72,7 +72,7 @@ const HealthChart2018 = () => {
           console.log('Error loading the GeoJSON data: ' + error);
         });
     }
-  }, []);
+  }, [subdistrictCoordinates]);
 
   const categoryMapping = {
     'Sex': ['Male', 'Female'],
