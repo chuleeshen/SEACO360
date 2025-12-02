@@ -39,5 +39,5 @@ Backend for SEACO360 visualisation platform
 Development mode
 
 ```
-npm install && npm start
+cd SEACO360/Server npm install && npm start
 ```
